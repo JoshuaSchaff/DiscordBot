@@ -1,0 +1,14 @@
+{
+  "name": "prescuit_bot",
+  "version": "0.0.0",
+  "main": "bot.js",
+  "author": "Prescuit",
+  "dependencies": {
+    "discord.js": "^12.2.0"
+  },
+  "description": "Bot for discord",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "license": "ISC"
+}
